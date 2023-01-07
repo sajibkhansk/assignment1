@@ -6,7 +6,7 @@
 /* mgn for Margin */
 .bg{
     height: 900px;
-    background-image: url('./images/banner/banner3.png');
+    background-image: url('/images/banner/banner3.png');
     background-size: 100% 100%;
 
 }
@@ -115,7 +115,7 @@ color: #FFFFFF;
     height: 300px;
     width: 940px;
     margin: 100px 200px 170px 200px;
-    background-image: linear-gradient(to right,rgb(34, 157, 239),rgba(239,91,34,0)),url('./images/watch.png');
+    background-image: linear-gradient(to right,rgb(34, 157, 239),rgba(239,91,34,0)),url('/images/watch.png');
     border-radius: 10px;
     background-repeat: no-repeat;
 }
